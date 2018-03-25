@@ -475,10 +475,7 @@
 										<span class="list-icon"><i class="round-icon iconfont-envelope-alt"></i></span>
 										<div class="list-content"><?php echo ($foot["aemail"]); ?></div>
 									</li>
-									<li>
-										<span class="list-icon"><i class="round-icon iconfont-mbo"></i></span>
-										<div class="list-content"><?php echo ($foot["mbo"]); ?></div>
-									</li>
+									
 								</ul>
 							</div>
 						</section>
@@ -499,7 +496,6 @@
 							<div class="widget-content">
 								<p>周一 - 周五 :-------------------------8:00 -- 22:00</p>
 								<p>周六 - 周日 :-------------------------9:00 -- 24:00</p>
-								<br/>
 								<p>全年365天营业，节假日不休息，益智玩具期待您的光临！</p>
 							</div>
 						</section>
@@ -507,7 +503,7 @@
 					
 					<div class="space40 visible-sm clearfix"></div>
 					
-					<div class="col-xs-12 col-sm-6 col-md-2">
+					<!-- <div class="col-xs-12 col-sm-6 col-md-2">
 						<section class="widget widget-menu">
 							<h5 class="widget-title">友情链接</h5>
 							<div class="widget-content">
@@ -516,7 +512,7 @@
 								</ul>
 							</div>
 						</section>
-					</div>
+					</div> -->
 					
 				</div>
 			</div>
@@ -546,14 +542,14 @@
 				
 				<div class="space40 visible-xs"></div>
 				
-				<div class="col-xs-12 col-sm-6">
+				<!-- <div class="col-xs-12 col-sm-6">
 					<div class="pull-right">
 							<span class="uppercase">可选付款类型&emsp;</span>
 							<a href="./Index/Tpl/Index/#"><img src="__PUBLIC__/index/img/visacard.png" alt="" width="40" /></a>
 							<a href="./Index/Tpl/Index/#"><img src="__PUBLIC__/index/img/mastercard.png" alt="" width="40" /></a>
 							<a href="./Index/Tpl/Index/#"><img src="__PUBLIC__/index/img/paypal.png" alt="" width="40" /></a>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>

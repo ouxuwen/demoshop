@@ -99,7 +99,7 @@
                     <ul>
                         <li><a href="__APP__/Model/lists">模版列表</a></li>
                         <li><a href="__APP__/Model/set">模版设置</a></li>
-                      
+                         
                         <li><a href="__APP__/Mail/lists">邮件模板</a></li>
                     </ul>
                 </li> -->
